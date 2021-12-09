@@ -1,2 +1,2 @@
 # Know-Emojis
-Created with CodeSandbox
+Know the meaning of emojis.
